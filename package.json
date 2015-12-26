@@ -1,0 +1,18 @@
+{
+  "name": "json-lucene-like-query",
+  "version": "0.0.1",
+  "description": "Lucene looking query syntax to filter JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peebles/json-lucene-like-query.git"
+  },
+  "author": "Andrew Peebles",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
