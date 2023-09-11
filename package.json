@@ -1,6 +1,6 @@
 {
   "name": "json-lucene-like-query",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Lucene looking query syntax to filter JSON objects",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "Andrew Peebles",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.21"
   }
 }
